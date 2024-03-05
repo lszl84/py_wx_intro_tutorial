@@ -12,7 +12,7 @@ Your support means the world to me!
 
 ## Project Overview
 
-Full Tutorial: (see YouTube above)
+Full Tutorial: [YouTube](https://www.youtube.com/watch?v=rnY2yXWIAl4)
 
 This simple Python script uses `wxPython` to show a window, a file dialog and a multiline text control. When the user selects a file, the script reads the file and displays the contents in the text control.
 
