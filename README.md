@@ -22,5 +22,5 @@ python main.py
 Remember to install the required libraries first. I recommend using a virtual environment to manage your dependencies.
 
 ---
-Check out the blog for more! [www.lukesdevtutorials.com](https://www.lukesdevtutorials.com)
+Check out the blog for more! [www.onlyfastcode.com](https://www.onlyfastcode.com)
 ---
